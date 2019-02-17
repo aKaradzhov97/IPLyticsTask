@@ -8,5 +8,5 @@ I have added the required functionality, with some validations BUT NOT ALL,
 because validations were not required.
 
 Basically that's everything. I hope I have understood the requirements properly.
-<b>For more info:</b> amacho97@gmail.com
+<b>For more info:</b> amalcho97@gmail.com
 </pre>
